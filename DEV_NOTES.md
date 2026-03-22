@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Added CONTRIBUTING.md stub
 - Documented config options
+
+## 2026-03-23
+- Cross-checked behaviour against spec
+- Cleaned up old debug logs
