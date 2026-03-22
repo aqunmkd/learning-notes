@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cross-checked behaviour against spec
 - Cleaned up old debug logs
+
+## 2026-03-23
+- Added basic usage examples to README
+- Added inline documentation for core functions
